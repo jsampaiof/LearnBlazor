@@ -1,7 +1,28 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "E:\\PROJECTS\\C#\\LearnBlazor\\LearnBlazor\\",
-  "Documents": [],
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F2422BA2-CB5A-438C-8AF5-0E951E108266}|LearnBlazor.csproj|e:\\projects\\c#\\learnblazor\\learnblazor\\components\\layout\\navmenu.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F2422BA2-CB5A-438C-8AF5-0E951E108266}|LearnBlazor.csproj|solutionrelative:components\\layout\\navmenu.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F2422BA2-CB5A-438C-8AF5-0E951E108266}|LearnBlazor.csproj|e:\\projects\\c#\\learnblazor\\learnblazor\\components\\learnblazor\\dashboard.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F2422BA2-CB5A-438C-8AF5-0E951E108266}|LearnBlazor.csproj|solutionrelative:components\\learnblazor\\dashboard.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F2422BA2-CB5A-438C-8AF5-0E951E108266}|LearnBlazor.csproj|e:\\projects\\c#\\learnblazor\\learnblazor\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F2422BA2-CB5A-438C-8AF5-0E951E108266}|LearnBlazor.csproj|solutionrelative:models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F2422BA2-CB5A-438C-8AF5-0E951E108266}|LearnBlazor.csproj|e:\\projects\\c#\\learnblazor\\learnblazor\\components\\pages\\counter.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F2422BA2-CB5A-438C-8AF5-0E951E108266}|LearnBlazor.csproj|solutionrelative:components\\pages\\counter.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F2422BA2-CB5A-438C-8AF5-0E951E108266}|LearnBlazor.csproj|e:\\projects\\c#\\learnblazor\\learnblazor\\components\\pages\\weather.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F2422BA2-CB5A-438C-8AF5-0E951E108266}|LearnBlazor.csproj|solutionrelative:components\\pages\\weather.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
@@ -9,7 +30,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 1011,
-          "SelectedChildIndex": -1,
+          "SelectedChildIndex": 6,
           "Children": [
             {
               "$type": "Bookmark",
@@ -18,6 +39,67 @@
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Counter.razor",
+              "DocumentMoniker": "E:\\PROJECTS\\C#\\LearnBlazor\\LearnBlazor\\Components\\Pages\\Counter.razor",
+              "RelativeDocumentMoniker": "Components\\Pages\\Counter.razor",
+              "ToolTip": "E:\\PROJECTS\\C#\\LearnBlazor\\LearnBlazor\\Components\\Pages\\Counter.razor",
+              "RelativeToolTip": "Components\\Pages\\Counter.razor",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-02-20T02:38:53.359Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Weather.razor",
+              "DocumentMoniker": "E:\\PROJECTS\\C#\\LearnBlazor\\LearnBlazor\\Components\\Pages\\Weather.razor",
+              "RelativeDocumentMoniker": "Components\\Pages\\Weather.razor",
+              "ToolTip": "E:\\PROJECTS\\C#\\LearnBlazor\\LearnBlazor\\Components\\Pages\\Weather.razor",
+              "RelativeToolTip": "Components\\Pages\\Weather.razor",
+              "ViewState": "AgIAACEAAAAAAAAAAAAAAAsAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-02-20T01:45:24.556Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Product.cs",
+              "DocumentMoniker": "E:\\PROJECTS\\C#\\LearnBlazor\\LearnBlazor\\Models\\Product.cs",
+              "RelativeDocumentMoniker": "Models\\Product.cs",
+              "ToolTip": "E:\\PROJECTS\\C#\\LearnBlazor\\LearnBlazor\\Models\\Product.cs",
+              "RelativeToolTip": "Models\\Product.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-11T03:53:23.711Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Dashboard.razor",
+              "DocumentMoniker": "E:\\PROJECTS\\C#\\LearnBlazor\\LearnBlazor\\Components\\LearnBlazor\\Dashboard.razor",
+              "RelativeDocumentMoniker": "Components\\LearnBlazor\\Dashboard.razor",
+              "ToolTip": "E:\\PROJECTS\\C#\\LearnBlazor\\LearnBlazor\\Components\\LearnBlazor\\Dashboard.razor",
+              "RelativeToolTip": "Components\\LearnBlazor\\Dashboard.razor",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-12-08T03:54:07.035Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "NavMenu.razor",
+              "DocumentMoniker": "E:\\PROJECTS\\C#\\LearnBlazor\\LearnBlazor\\Components\\Layout\\NavMenu.razor",
+              "RelativeDocumentMoniker": "Components\\Layout\\NavMenu.razor",
+              "ToolTip": "E:\\PROJECTS\\C#\\LearnBlazor\\LearnBlazor\\Components\\Layout\\NavMenu.razor",
+              "RelativeToolTip": "Components\\Layout\\NavMenu.razor",
+              "ViewState": "AgIAABUAAAAAAAAAAAAAAAEAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-12-08T03:29:01.245Z",
+              "EditorCaption": ""
             }
           ]
         }

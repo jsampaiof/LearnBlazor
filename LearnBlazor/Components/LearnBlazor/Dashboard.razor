@@ -1,0 +1,18 @@
+﻿@page "/dashboard"
+@using LearnBlazor
+
+<h3>Dashboard</h3>
+<div>Codigo interno: @product.Id</div>
+<div>Nome do produto: @product.Name</div>
+Input Name: <InputText type="text" name="nome" @bind-value="@product.Name" @bind:event="oninput"/>
+
+@code {
+    Models.Product product = new()
+    {
+        Id = 1,
+        Name = "Esponja",
+        IsActive = true
+    };
+
+
+}
