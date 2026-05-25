@@ -1,17 +1,24 @@
 ﻿@page "/dashboard"
 @using LearnBlazor
+@using global::LearnBlazor.Models
+@using System.Globalization
 
 <h3>Dashboard</h3>
 <div>Codigo interno: @product.Id</div>
 <div>Nome do produto: @product.Name</div>
-Input Name: <InputText type="text" name="nome" @bind-value="@product.Name" @bind:event="oninput"/>
+<div>Price: @product.Price</div>
+<label class="d-block mt-2">Nome</label>
+<input type="text" name="nome" class="form-control" @bind="product.Name" @bind:event="oninput" />
+<label class="d-block mt-2">Preço</label>
+<input type="number" step="0.01" name="price" class="form-control" @bind="product.Price" @bind:event="oninput" @bind:culture="CultureInfo.InvariantCulture" />
 
 @code {
-    Models.Product product = new()
+    Product product = new()
     {
         Id = 1,
         Name = "Esponja",
-        IsActive = true
+        IsActive = true,
+        Price = 50
     };
 
 
